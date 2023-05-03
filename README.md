@@ -19,3 +19,9 @@ The setup steps are listed in the order that what is mored needed or convenient 
     * Setup
         + User settings is in folder ./data/
 <br /><br />
+5. Install Python portable version
+    * Download zip version
+    * Download link is https://www.python.org/downloads/windows/
+    * Setup
+        + python.exe is in folder ./python/
+    * Source: https://codefaq.org/windows/how-to-get-portable-python-3-9-on-windows-10/
