@@ -24,4 +24,8 @@ The setup steps are listed in the order that what is mored needed or convenient 
     * Download link is https://www.python.org/downloads/windows/
     * Setup
         + python.exe is in folder ./python/
-    * Source: https://codefaq.org/windows/how-to-get-portable-python-3-9-on-windows-10/
+            * folder name can also be python followed by version number
+        + pip.exe is in folder ./python/Scripts/
+    * To install package using pip, run the following command in the directory where python.exe is located
+        + ```pipinstall <package_name>```
+<br /><br />
